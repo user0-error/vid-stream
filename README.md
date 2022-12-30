@@ -1,3 +1,4 @@
-# youtube-clone-project
+# video streaming app
 
-This repository contains source code for the Spring Boot Angular Full Stack - Youtube Clone Project
+This repository contains source code for the MEAN stack
+
